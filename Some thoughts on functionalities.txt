@@ -1,0 +1,9 @@
+1. The output from the weight Platform should merge with the output of the camera's (i.e. Number of people in the particular vehicle) and 
+   then this weight will be aggregated upon the other weights above in ther pipeline.
+
+
+2. CAMERAS WILL/SHOULD:
+
+	-a) Determine the license plate (And thus, the license plate number of the car)
+	-b) Determine total number of passengers in the vehicle	
+
